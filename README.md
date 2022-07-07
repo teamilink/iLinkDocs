@@ -4,11 +4,58 @@
 
 ### Purpose
 
+iLink is an application that offers digital marketing professionals the tool to optimise their social media presence by linking all their social media platforms and promotion links (landing page) together under one main URI link endpoint. 
+
+Below are the benefits that offered by iLink:
+- The application allows users to add multiple landing page links or call to action buttons.
+- Users can direct their web traffic to specific landing pages (promotion) or other target pages on their website and add as many links as they want. 
+- Businesses can enhance their brand identity with a custom image and links.
+
+By having this capability of iLink, users such as small business owners or digital marketers are able to better manage their social media presence by giving their followers a convenient way to and one-click process to all their online contents on the internet.
+
 ### Functionality / features
+
+Account Creation
+- User Login/Logout and New Account Registration
+- Image uploaded for user profile picture
+- Random image from a batch of images via unsplash API if no profile image is uploaded by the user. 
+- Fill up basic information of the user 
+- **Optional** - Premium (paid) service for a custom link, custom background, remove service logo, etc
+
+Account Dashboard
+- Create and generate new card (main URI endpoint link)
+- Add new URI links with title and description into the card
+- View, update or delete existing links to the card
+- **Optional** - Payment with Stripe
 
 ### Target audience
 
+This app aims at social media influencers, marketing and branding professionals and other social media content creators that are looking to grow and gather all their followers across multiple different platforms into one single platform for their web visitors. 
+
 ### Tech stack
+
+The following is the technology stack used for this project.
+
+**Programming Language:** Ruby and Javascript
+
+**Client Side:** React.js library, Material UI & Styled components. 
+
+**Server Side:** Ruby on Rails framework 
+
+**Testing:** RSpec, Jest
+
+**Database:** PostgreSQL
+
+**Cloud Storage:** Amazon S3
+
+**Cloud Hosting:** Netlify for Client side and Heroku for server side
+
+**Utilities:** Balsamiq Wireframes, Draw.io
+
+**DevOps:** Github, Git Version Control, Visual Studio Code
+
+**Project Management Tools:** Trello and Discord 
+
 
 ## R2 Dataflow Diagram
 

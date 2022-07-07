@@ -4,6 +4,16 @@
 
 ### Purpose
 
+iLink is an application that offers digital marketing professionals the tool to optimise their social media presence by linking all their social media platforms and promotion links (landing page) together under one main URI link endpoint. 
+
+Below are the benefits that offered by iLink:
+- The application allows users to add multiple landing page links or call to action buttons.
+- Users can direct their web traffic to specific landing pages (promotion) or other target pages on their website and add as many links as they want. 
+- Businesses can enhance their brand identity with a custom image and links.
+
+By having this capability of iLink, users such as small business owners or digital marketers are able to better manage their social media presence by giving their followers a convenient way to and one-click process to all their online contents on the internet.
+
+
 ### Functionality / features
 
 ### Target audience

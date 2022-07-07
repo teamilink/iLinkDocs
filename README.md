@@ -32,7 +32,7 @@
 
 - The username typed in the input field will be taken to the register page
 - The username will be the endpoint of the created link
-  eg. https://iLink.in/yourname
+  eg. `https://iLink.in/yourname`
 
 ### Sign up Page
 

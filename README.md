@@ -34,6 +34,29 @@ This app aims at social media influencers, marketing and branding professionals 
 
 ### Tech stack
 
+The following is the technology stack used for this project.
+
+**Programming Language:** Ruby and Javascript
+
+**Client Side:** React.js library, Material UI & Styled components. 
+
+**Server Side:** Ruby on Rails framework 
+
+**Testing:** RSpec, Jest
+
+**Database:** PostgreSQL
+
+**Cloud Storage:** Amazon S3
+
+**Cloud Hosting:** Netlify for Client side and Heroku for server side
+
+**Utilities:** Balsamiq Wireframes, Draw.io
+
+**DevOps:** Github, Git Version Control, Visual Studio Code
+
+**Project Management Tools:** Trello and Discord 
+
+
 ## R2 Dataflow Diagram
 
 ![](/docs/T3A2-DFD.png)

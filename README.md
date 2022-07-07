@@ -30,6 +30,8 @@ Account Dashboard
 
 ### Target audience
 
+This app aims at social media influencers, marketing and branding professionals and other social media content creators that are looking to grow and gather all their followers across multiple different platforms into one single platform for their web visitors. 
+
 ### Tech stack
 
 ## R2 Dataflow Diagram

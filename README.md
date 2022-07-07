@@ -13,6 +13,7 @@ Below are the benefits that offered by iLink:
 
 By having this capability of iLink, users such as small business owners or digital marketers are able to better manage their social media presence by giving their followers a convenient way to and one-click process to all their online contents on the internet.
 
+
 ### Functionality / features
 
 Account Creation
@@ -28,9 +29,11 @@ Account Dashboard
 - View, update or delete existing links to the card
 - **Optional** - Payment with Stripe
 
+
 ### Target audience
 
 This app aims at social media influencers, marketing and branding professionals and other social media content creators that are looking to grow and gather all their followers across multiple different platforms into one single platform for their web visitors. 
+
 
 ### Tech stack
 
@@ -69,7 +72,30 @@ The following is the technology stack used for this project.
 
 ![](/docs/T3A2-AAD.png)
 
+
 ## R4 User Stories
+
+1. As a digital marketer, he/she should be able to register for a new account with his/her information and profile image, so that he/she could use the service for my marketing purposes. 
+
+2. As a digital marketer, he/she should be able to log in with secure authentication into his/her account, so that he/she could manage all their social media and landing pages links with the service.
+
+3. As a digital marketer, he/she should be able to upload his/her profile image, so that they could make a personalised page.
+
+4. As a digital marketer, he/she should be able to choose a random image, so that they could create the page look better.
+
+5. As a digital marketer, he/she should be able to create a new card in his/her account, so that he/she could gather all his/her links and add everything into the card.
+
+6. As a digital marketer, he/she should be able to see the preview of the page, so that he/she could check what the links look like and update them if needed.
+
+7. As a digital marketer, he/she should be able to view all the links that he/she has added into the system, so that he/she could make any changes of links and descriptions to make sure all are correctly added. 
+
+8. As a digital marketer, he/she should be able to remove or edit any existing links, so that he/she could change the links that he/she had added incorrectly previously.
+
+**Optional**
+9. As a digital marketer, he/she should be able to register for the premium service, so that he/she could use the additional features of the service.
+ 
+10. As a digital marketer, he/she should be able to use the payment service, so that he/she could proceed with the purchase of the premium service.
+
 
 ## R5 Wireframes
 

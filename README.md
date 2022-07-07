@@ -13,8 +13,20 @@ Below are the benefits that offered by iLink:
 
 By having this capability of iLink, users such as small business owners or digital marketers are able to better manage their social media presence by giving their followers a convenient way to and one-click process to all their online contents on the internet.
 
-
 ### Functionality / features
+
+Account Creation
+- User Login/Logout and New Account Registration
+- Image uploaded for user profile picture
+- Random image from a batch of images via unsplash API if no profile image is uploaded by the user. 
+- Fill up basic information of the user 
+- **Optional** - Premium (paid) service for a custom link, custom background, remove service logo, etc
+
+Account Dashboard
+- Create and generate new card (main URI endpoint link)
+- Add new URI links with title and description into the card
+- View, update or delete existing links to the card
+- **Optional** - Payment with Stripe
 
 ### Target audience
 

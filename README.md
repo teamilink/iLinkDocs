@@ -157,3 +157,22 @@ The following is the technology stack used for this project.
   - Add a background image file or set a custom background image
 
 ## R6 Screenshots of the Trello board
+
+Trello project management tool is being used throughout the entire project from planning stage to implementation.
+
+We started off the project by planning and designing the system documentation that covers the application architectural and wireframe of the site. By keeping track of the process, we took advantage of the trello management tool which allows us to create a board with multiple cards that represents each task that needs to be included in the system documentation. Then, each task is being allocated fairly to each member of the group with a deadline.
+
+Each member of the group will then be responsible for the task assigned to them and mark off the task once completed. The group is working on the project remotely from Brisbane and Sydney. The following screenshot showed the progress of our work throughout the planning process. For more information, you could preview the full version of our trello board at [**here**](https://trello.com/b/vwtGNhLx/t3a2-part-a)
+
+
+Stage 1 - Design planning
+![](/docs/trello/Stage1-Planning.PNG)
+
+Stage 2 - Progressing
+![](/docs/trello/Stage2-Progressing.PNG)
+
+Stage 3 - Completed
+![](/docs/trello/Stage3-Completed.PNG)
+
+Stage 4 - Project implementation start (Part B)
+![](/docs/trello/Stage4-Project-Implementation.PNG)

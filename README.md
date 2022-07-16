@@ -14,7 +14,7 @@ Below are the benefits that offered by iLink:
 
 By having this capability of iLink, users such as small business owners or digital marketers are able to better manage their social media presence by giving their followers a convenient way to and one-click process to all their online contents on the internet.
 
-### Functionality / features
+### Functionality / Features
 
 Account Creation
 
@@ -59,17 +59,25 @@ The following is the technology stack used for this project.
 
 **Project Management Tools:** Trello and Discord
 
+<hr>
+
 ## R2 Dataflow Diagram
 
 ![](/docs/T3A2-DFD.png)
+
+<br>
 
 ### ERD for reference
 
 ![](/docs/T3A2-ERD.png)
 
+<hr>
+
 ## R3 Application Architecture Diagram
 
 ![](/docs/T3A2-AAD.png)
+
+<hr>
 
 ## R4 User Stories
 
@@ -89,9 +97,12 @@ The following is the technology stack used for this project.
 
 8. As a digital marketer, he/she should be able to remove or edit any existing links, so that he/she could change the links that he/she had added incorrectly previously.
 
-**Optional** 9. As a digital marketer, he/she should be able to register for the premium service, so that he/she could use the additional features of the service.
+**Optional** 
+9. As a digital marketer, he/she should be able to register for the premium service, so that he/she could use the additional features of the service.
 
 10. As a digital marketer, he/she should be able to use the payment service, so that he/she could proceed with the purchase of the premium service.
+
+<hr>
 
 ## R5 Wireframes
 
@@ -160,19 +171,26 @@ We started off the project by planning and designing the system documentation th
 
 Each member of the group will then be responsible for the task assigned to them and mark off the task once completed. The group is working on the project remotely from Brisbane and Sydney. The following screenshot showed the progress of our work throughout the planning process. For more information, you could preview the full version of our trello board at [**here**](https://trello.com/b/vwtGNhLx/t3a2-part-a)
 
-Stage 1 - Design planning
+### Stage 1 - Design planning
+
 ![](/docs/trello/Stage1-Planning.PNG)
 
-Stage 2 - Progressing
+### Stage 2 - Progressing
+
 ![](/docs/trello/Stage2-Progressing.PNG)
 
-Stage 3 - Completed
+### Stage 3 - Completed
+
 ![](/docs/trello/Stage3-Completed.PNG)
 
-Stage 4 - Project implementation start (Part B)
+### Stage 4 - Project implementation start (Part B)
+
 ![](/docs/trello/Stage4-Project-Implementation.PNG)
+
+<hr>
 
 ## Reference Links
 
 - [iLinkDocs - Github Repo](https://github.com/teamilink/iLinkDocs)
 - [iLink - Slide Deck for Part A](https://www.canva.com/design/DAFFim6i7co/uUwexPtZMTMt71YQwHYxwA/view?utm_content=DAFFim6i7co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [iLink - Trello Board](https://trello.com/b/vwtGNhLx/t3a2-part-a)

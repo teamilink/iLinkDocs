@@ -4,36 +4,36 @@
 
 ### Purpose
 
-iLink is an application that offers digital marketing professionals the tool to optimise their social media presence by linking all their social media platforms and promotion links (landing page) together under one main URI link endpoint. 
+iLink is an application that offers digital marketing professionals the tool to optimise their social media presence by linking all their social media platforms and promotion links (landing page) together under one main URI link endpoint.
 
 Below are the benefits that offered by iLink:
+
 - The application allows users to add multiple landing page links or call to action buttons.
-- Users can direct their web traffic to specific landing pages (promotion) or other target pages on their website and add as many links as they want. 
+- Users can direct their web traffic to specific landing pages (promotion) or other target pages on their website and add as many links as they want.
 - Businesses can enhance their brand identity with a custom image and links.
 
 By having this capability of iLink, users such as small business owners or digital marketers are able to better manage their social media presence by giving their followers a convenient way to and one-click process to all their online contents on the internet.
 
-
 ### Functionality / features
 
 Account Creation
+
 - User Login/Logout and New Account Registration
 - Image uploaded for user profile picture
-- Random image from a batch of images via unsplash API if no profile image is uploaded by the user. 
-- Fill up basic information of the user 
+- Random image from a batch of images via unsplash API if no profile image is uploaded by the user.
+- Fill up basic information of the user
 - **Optional** - Premium (paid) service for a custom link, custom background, remove service logo, etc
 
 Account Dashboard
+
 - Create and generate new card (main URI endpoint link)
 - Add new URI links with title and description into the card
 - View, update or delete existing links to the card
 - **Optional** - Payment with Stripe
 
-
 ### Target audience
 
-This app aims at social media influencers, marketing and branding professionals and other social media content creators that are looking to grow and gather all their followers across multiple different platforms into one single platform for their web visitors. 
-
+This app aims at social media influencers, marketing and branding professionals and other social media content creators that are looking to grow and gather all their followers across multiple different platforms into one single platform for their web visitors.
 
 ### Tech stack
 
@@ -41,9 +41,9 @@ The following is the technology stack used for this project.
 
 **Programming Language:** Ruby and Javascript
 
-**Client Side:** React.js library, Material UI & Styled components. 
+**Client Side:** React.js library, Material UI & Styled components.
 
-**Server Side:** Ruby on Rails framework 
+**Server Side:** Ruby on Rails framework
 
 **Testing:** RSpec, Jest
 
@@ -57,8 +57,7 @@ The following is the technology stack used for this project.
 
 **DevOps:** Github, Git Version Control, Visual Studio Code
 
-**Project Management Tools:** Trello and Discord 
-
+**Project Management Tools:** Trello and Discord
 
 ## R2 Dataflow Diagram
 
@@ -72,10 +71,9 @@ The following is the technology stack used for this project.
 
 ![](/docs/T3A2-AAD.png)
 
-
 ## R4 User Stories
 
-1. As a digital marketer, he/she should be able to register for a new account with his/her information and profile image, so that he/she could use the service for my marketing purposes. 
+1. As a digital marketer, he/she should be able to register for a new account with his/her information and profile image, so that he/she could use the service for my marketing purposes.
 
 2. As a digital marketer, he/she should be able to log in with secure authentication into his/her account, so that he/she could manage all their social media and landing pages links with the service.
 
@@ -87,15 +85,13 @@ The following is the technology stack used for this project.
 
 6. As a digital marketer, he/she should be able to see the preview of the page, so that he/she could check what the links look like and update them if needed.
 
-7. As a digital marketer, he/she should be able to view all the links that he/she has added into the system, so that he/she could make any changes of links and descriptions to make sure all are correctly added. 
+7. As a digital marketer, he/she should be able to view all the links that he/she has added into the system, so that he/she could make any changes of links and descriptions to make sure all are correctly added.
 
 8. As a digital marketer, he/she should be able to remove or edit any existing links, so that he/she could change the links that he/she had added incorrectly previously.
 
-**Optional**
-9. As a digital marketer, he/she should be able to register for the premium service, so that he/she could use the additional features of the service.
- 
-10. As a digital marketer, he/she should be able to use the payment service, so that he/she could proceed with the purchase of the premium service.
+**Optional** 9. As a digital marketer, he/she should be able to register for the premium service, so that he/she could use the additional features of the service.
 
+10. As a digital marketer, he/she should be able to use the payment service, so that he/she could proceed with the purchase of the premium service.
 
 ## R5 Wireframes
 
@@ -164,7 +160,6 @@ We started off the project by planning and designing the system documentation th
 
 Each member of the group will then be responsible for the task assigned to them and mark off the task once completed. The group is working on the project remotely from Brisbane and Sydney. The following screenshot showed the progress of our work throughout the planning process. For more information, you could preview the full version of our trello board at [**here**](https://trello.com/b/vwtGNhLx/t3a2-part-a)
 
-
 Stage 1 - Design planning
 ![](/docs/trello/Stage1-Planning.PNG)
 
@@ -176,3 +171,8 @@ Stage 3 - Completed
 
 Stage 4 - Project implementation start (Part B)
 ![](/docs/trello/Stage4-Project-Implementation.PNG)
+
+## Reference Links
+
+- [iLinkDocs - Github Repo](https://github.com/teamilink/iLinkDocs)
+- [iLink - Slide Deck for Part A](https://www.canva.com/design/DAFFim6i7co/uUwexPtZMTMt71YQwHYxwA/view?utm_content=DAFFim6i7co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

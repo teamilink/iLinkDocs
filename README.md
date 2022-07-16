@@ -89,7 +89,8 @@ The following is the technology stack used for this project.
 
 8. As a digital marketer, he/she should be able to remove or edit any existing links, so that he/she could change the links that he/she had added incorrectly previously.
 
-**Optional** 9. As a digital marketer, he/she should be able to register for the premium service, so that he/she could use the additional features of the service.
+**Optional** 
+9. As a digital marketer, he/she should be able to register for the premium service, so that he/she could use the additional features of the service.
 
 10. As a digital marketer, he/she should be able to use the payment service, so that he/she could proceed with the purchase of the premium service.
 
@@ -176,3 +177,4 @@ Stage 4 - Project implementation start (Part B)
 
 - [iLinkDocs - Github Repo](https://github.com/teamilink/iLinkDocs)
 - [iLink - Slide Deck for Part A](https://www.canva.com/design/DAFFim6i7co/uUwexPtZMTMt71YQwHYxwA/view?utm_content=DAFFim6i7co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [iLink - Trello Board](https://trello.com/b/vwtGNhLx/t3a2-part-a)
